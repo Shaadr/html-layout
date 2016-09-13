@@ -1,0 +1,64 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+html {
+  height: 100%;
+  width: 100%;
+
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(28, 173, 29);
+}
+
+header {
+  background-color: lightgrey;
+  width: 100%;
+  height: 14vh;
+  overflow: hidden;
+}
+
+article {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30vh;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
+}
+
+.blue-square {
+  background-color: #668cff;
+  height: 72px;
+  width: 72px;
+  margin: 10px 0 0 10px;
+}
+
+.bar_white {
+  width: 100%;
+  height: 30vh;
+  background-color: white;
+
+}
+
+.bar {
+  width: 100%;
+  height: 14vh;
+}
+
+
+
+#bar1 {
+  background-color: #668cff;
+}
+
+#bar2 {
+  background-color: #66ffcc;
+}
+
+#bar3 {
+  background-color: #bfff80;
+}
+
+#bar4 {
+  background-color:yellow;
+}
